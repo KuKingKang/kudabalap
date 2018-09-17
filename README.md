@@ -1,0 +1,2 @@
+# kudabalap
+Contoh static web
