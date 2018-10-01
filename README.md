@@ -1,7 +1,18 @@
-# kudabalap
+# Aplikasi Web dengan Github
 ```
-Contoh static web
+Contoh web statis
 ```
 
-## WEB-APPS
-KudaTerbangs
+## Profile
+- Alwan Yassin
+- 1167050023
+
+## Header
+- Home
+- Task
+
+## Body
+- Biografi(di homepage)
+
+## Footer
+- Copyright @ 2018
